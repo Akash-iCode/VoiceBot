@@ -1,0 +1,6 @@
+openai
+pytest
+pyttsx3
+SpeechRecognition
+pyaudio
+flac
